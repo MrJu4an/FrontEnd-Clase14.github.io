@@ -39,7 +39,7 @@ header h1 {
 /* Card */
 .card {
     position: relative;
-    width: 405px;
+    width: 380px;
     background-color: #F3F3F3;
     flex-direction: column;
     align-items: center;
